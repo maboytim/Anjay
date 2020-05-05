@@ -10,7 +10,7 @@ Anjay is a C library that aims to be the reference implementation of the OMA Lig
 The project has been created and is actively maintained by [AVSystem](https://www.avsystem.com).
 
 -   [Full documentation](https://AVSystem.github.io/Anjay-doc/)
--   [Tutorials](https://AVSystem.github.io/Anjay-doc/BasicTutorial.html)
+-   [Tutorials](https://AVSystem.github.io/Anjay-doc/BasicClient.html)
 -   [API docs](https://AVSystem.github.io/Anjay-doc/api/)
 
 <!-- toc -->
