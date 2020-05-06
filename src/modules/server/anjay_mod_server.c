@@ -121,7 +121,7 @@ static int add_instance(server_repr_t *repr,
     }
     new_instance->has_default_max_period = (instance->default_max_period >= 0);
     if (new_instance->has_default_max_period) {
-        new_instance->has_default_max_period = instance->default_max_period;
+        new_instance->default_max_period = instance->default_max_period;
     }
     new_instance->has_disable_timeout = (instance->disable_timeout >= 0);
     if (new_instance->has_disable_timeout) {
